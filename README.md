@@ -23,5 +23,17 @@ improve the knowledge about ContextApi and other concepts on React.
 
 ```bash
 # Make the git clone
-$ git clone   
+$ git clone https://github.com/Luan4560/Challenge_three_ignite.git 
+
+# Go to your path cd Yourpath and install the dependencies
+$ yarn or npm install
+
+# After the dependecies are installed run, to initialize the server
+$ yarn server 
+
+# And run your project
+$ yarn start
 ```
+---
+
+Builded by Luan Nascimento. 🤘
